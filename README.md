@@ -3,7 +3,6 @@ Multiple disease prediction
 .
 ---
 
-# Medical Prediction Suite
 
 ## Overview
 
