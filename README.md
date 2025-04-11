@@ -1,7 +1,6 @@
 # Project-4
 Multiple disease prediction
-Below is a detailed README file for the "Medical Prediction Suite" project, providing an in-depth overview, comprehensive installation instructions, detailed usage guide, model training specifics, file structure, troubleshooting tips, and more. It’s tailored to the provided code and documents while avoiding direct reproduction of the full code.
-
+.
 ---
 
 # Medical Prediction Suite
